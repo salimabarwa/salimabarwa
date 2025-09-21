@@ -1,4 +1,3 @@
-<img src="profile.jpg" alt="Screenshot 2025-09-19 165620" width="200" style="border-radius:50%">
 # 👋 Hi, I'm Salima Barwa  
 
 📍 MBA Student | Aspiring HR Professional | Skilled in Talent Acquisition, L&D, and HR Analytics  
